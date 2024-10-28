@@ -1,0 +1,7 @@
+id=Bypass_UDS_Checks
+name=Enhance security & Spoof UDS checks
+version=1.0
+versionCode=1
+author=@grandmaster.trader Instagram (Agadir City, Morocco) 
+description=Magisk UDS check obfuscation. It limits access to sensitive inter-process communication (IPC) channels . Adds an important layer of defense against specific types of attacks that target Unix domain sockets. It reduces the risk of exploitation from malicious applications. 
+
